@@ -79,4 +79,4 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 ```
 
-Credits: CSS initially based on ![sblack](https://github.com/frankdilo/sblack)
+Credits: CSS initially based on [sblack](https://github.com/frankdilo/sblack)
