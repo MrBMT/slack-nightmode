@@ -7,7 +7,7 @@ Add the following to the bottom of:
 
 `/Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static/ssb-interop.js` (Mac)
 
-`%LOCALAPPDATA%\slack\app-3.1.1\resources\app.asar.unpacked\src\static\ssb-interop.js` (Windows)
+`%LOCALAPPDATA%\slack\app-3.2.0\resources\app.asar.unpacked\src\static\ssb-interop.js` (Windows)
 
 ```
 // First make sure the wrapper app is loaded
